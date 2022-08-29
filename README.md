@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web development and automation using python<br>🎯 Goals: Always overcome the next challenge<br>🎲 Fun fact: I work at Normalabs Digital Transformation Hub</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web development and automation using python<br>🎯 Goals: Always overcome the next challenge<br>🎲 Fun fact: I love home office</p>
 
 ###
 
